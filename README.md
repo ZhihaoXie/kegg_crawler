@@ -10,7 +10,7 @@ output see **data/kegg_ko_informations.tsv**
 
 usage:
 
-​	python3 link_ko_func_path_infors.py <outdir>
+​	python3 link_ko_func_path_infors.py outdir
 
 ## crawl_kepp_pathway_level.py
 
